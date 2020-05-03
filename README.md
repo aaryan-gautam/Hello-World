@@ -1,3 +1,3 @@
 # Hello-World
-very obvious
+obvious
 reasons
